@@ -1,0 +1,1 @@
+This is just a text file as the clf.pkl file was too big to upload. You can train and store the model using the Jupyter file.
